@@ -3,8 +3,8 @@ import { Slider } from "infinite-react-carousel";
 function CardBottom() {
   const settings = {
     slidesToShow: 2,
-    // arrows: false,
-    // autoplay: true,
+    arrows: false,
+    autoplay: true,
     autoplaySpeed: 2000,
     style: {
       margin: "0 20px",
